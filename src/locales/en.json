@@ -1,0 +1,10 @@
+{
+    "Main": {
+        "title": "Title for main block",
+        "desc": "Description for main block"
+    },
+    "Second": {
+        "title": "Title for second block",
+        "desc": "Description for second block"
+    }
+}
