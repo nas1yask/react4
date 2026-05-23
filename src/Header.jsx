@@ -17,6 +17,11 @@ function Header() {
                 <button onClick={() => changeLang("ru")}>RU</button>
                 <button onClick={() => changeLang("en")}>EN</button>
             </div>
+            {/* <select onChange={()=> ? : }> */}
+                <option value="ru">RU</option>
+                <option value="ru">KZ</option>
+                <option value="ru">EN</option>
+            </select>
         </header>
     )
 }
